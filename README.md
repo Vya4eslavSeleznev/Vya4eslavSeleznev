@@ -41,22 +41,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vya4eslavSeleznev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vya4eslavSeleznev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 💪: LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Vya4eslav&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ---
-
-### :mailbox: Social networks
-
-<div id="badges" align="center">
-  <a href="https://t.me/Vya4eslaav">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
 
 <div id="viewCounter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Vya4eslavSeleznev&style=flat-square&color=blue" alt="" />
