@@ -43,12 +43,12 @@
 
 ---
 
-### 💪: LeetCode
+### 💪 LeetCode :
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Vya4eslav&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ---
 
-### :mailbox: Social networks
+### :mailbox: Social networks :
 
 <div id="badges" align="center">
   <a href="https://t.me/Vya4eslaav">
