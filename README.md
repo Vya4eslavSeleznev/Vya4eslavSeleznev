@@ -48,6 +48,16 @@
 
 ---
 
+### :mailbox: Social networks
+
+<div id="badges" align="center">
+  <a href="https://t.me/Vya4eslaav">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+---
+
 <div id="viewCounter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Vya4eslavSeleznev&style=flat-square&color=blue" alt="" />
 </div>
